@@ -5,7 +5,7 @@
 
 ## Oi eu sou o Enzo Pereira, um estudante de programação!
 
-Tenho um sonho de trabalhar com cybersecurity e Engenharia de dados
+Tenho um sonho de trabalhar com cybersecurity e Engenharia de Software
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzopereira1212/enzopereira1212/output/pacman-contribution-graph-dark.svg">
